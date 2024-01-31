@@ -1,7 +1,14 @@
 @import url('./reset.css');
  header{
     background-color: #020A18;
- }
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+
+
  header img{
     padding-left: 45px;
  }
@@ -26,4 +33,9 @@ height: 630px;
 }
 .sirketler img{
 padding-left: 50px;
+}
+
+
+header a {
+    color:#fff;
 }
