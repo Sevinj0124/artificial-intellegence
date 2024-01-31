@@ -1,0 +1,29 @@
+@import url('./reset.css');
+ header{
+    background-color: #020A18;
+ }
+ header img{
+    padding-left: 45px;
+ }
+ .introduction{
+    background-color:  #020A18;
+    display: flex;
+ }
+.intro-left-side h1{
+font-size: 55px;
+font-weight: 800;
+color: var(--ffffff, #FFF);
+}
+.intro-left-side p{
+    color: var(--ffffff, #FFF);
+font-size: 18px;
+font-weight: 600;
+}
+.intro-right-side img{
+padding-left: 80px;
+    width:632px;
+height: 630px;
+}
+.sirketler img{
+padding-left: 50px;
+}
